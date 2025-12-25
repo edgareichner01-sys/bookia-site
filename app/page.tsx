@@ -177,10 +177,10 @@ export default function Page() {
               <div className="text-sm text-slate-700">
                 <div className="font-semibold mb-2">Ce que Bookia fait</div>
                 <ul className="space-y-2">
-                  <li>✅ Prise de RDV 24h/24 & 7j/7</li>
-                  <li>✅ FAQ & réponses instantanées</li>
-                  <li>✅ Collecte d’infos avant rappel</li>
-                  <li>✅ Passage à un humain si nécessaire</li>
+                  <li>Disponibilité permanente</li>
+                  <li>Moins de tâches répétitives</li>
+                  <li>Plus de clients qualifiés</li>
+                  <li>Passe la main quand nécessaire</li>
                 </ul>
               </div>
             </div>
