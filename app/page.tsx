@@ -102,10 +102,10 @@ export default function Page() {
       {/* Header */}
       <header className="sticky top-0 z-50 border-b border-slate-100 bg-white/75 backdrop-blur">
         <div className="mx-auto max-w-6xl px-4 py-3 flex items-center justify-between">
-          <div className="flex items-center gap-3">
+          <div className="flex items-center gap-3 min-w-0">
             <Image src="/bookia-logo.png" alt="Bookia" width={44} height={44} priority />
-            <div className="leading-tight">
-              <div className="font-semibold">Bookia</div>
+            <div className="leading-tight min-w-0">
+              <div className="font-semibold hidden sm:block">Bookia</div>
               <div className="text-xs text-slate-500 hidden sm:block">
                 Vos clients réservent. Vous travaillez.
               </div>
