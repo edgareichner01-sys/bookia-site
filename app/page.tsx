@@ -177,10 +177,10 @@ export default function Page() {
               <div className="text-sm text-slate-700">
                 <div className="font-semibold mb-2">Ce que Bookia fait</div>
                 <ul className="space-y-2">
-                  <li>Disponibilité permanente</li>
-                  <li>Moins de tâches répétitives</li>
-                  <li>Plus de clients qualifiés</li>
-                  <li>Passe la main quand nécessaire</li>
+                  <li> -Disponibilité permanente</li>
+                  <li> -Moins de tâches répétitives</li>
+                  <li> -Plus de clients qualifiés</li>
+                  <li> -Passe la main quand nécessaire</li>
                 </ul>
               </div>
             </div>
